@@ -1,0 +1,4 @@
+#Thu Sep 30 05:35:37 ICT 2021
+base.0=C\:\\Users\\User\\AndroidStudioProjects\\PETA\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
